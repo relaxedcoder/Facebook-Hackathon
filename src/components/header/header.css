@@ -1,0 +1,21 @@
+.header{
+	padding: 10px;
+	border-bottom: 1px solid;
+}
+
+.center{
+	width: 100%;
+	text-align: center;
+	/*border: 1px solid;*/
+	/*color: white;*/
+	/*margin-right: auto;*/
+}
+
+.promoContainer{
+	display: flex;
+	justify-content: space-around;
+}
+
+.promo{
+	/*display: inline;*/
+}

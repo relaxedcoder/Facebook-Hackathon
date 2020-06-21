@@ -6,28 +6,21 @@ import {
   NavLink
 } from "react-router-dom";
 import './App.css';
-
+import MessengerCustomerChat from 'react-messenger-customer-chat';
+import Body from './components/body/body';
+import Header from './components/header/header';
 
 function App() {
   return (
     <div className="App">
-      <Router>
-      <div id="navbar">
-            <nav className="">
-              <NavLink to="/" id="name">Medil</NavLink>
-              <NavLink to="/contact" className="nav-li" > Contact </NavLink>
-              <NavLink to="/products" className="nav-li"> About </NavLink>
-            </nav>
-          </div>
-      </ Router>
+      <Header />
+      <Body />
 
-      <div id="fb-root"></div>
       
-
-      <div class="fb-customerchat"
-        attribution="setup_tool"
-        page_id="108266287590346">
-      </div>
+          <MessengerCustomerChat
+            pageId="108266287590346"
+            appId="943996966049788"
+          />
     </div>
   );
 }
