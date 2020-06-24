@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Facebook-Hackathon/static/css/main.586bf723.chunk.css",
+    "main.js": "/Facebook-Hackathon/static/js/main.3d9bd2c5.chunk.js",
+    "main.js.map": "/Facebook-Hackathon/static/js/main.3d9bd2c5.chunk.js.map",
+    "runtime-main.js": "/Facebook-Hackathon/static/js/runtime-main.d036cb09.js",
+    "runtime-main.js.map": "/Facebook-Hackathon/static/js/runtime-main.d036cb09.js.map",
+    "static/js/2.abde8ae2.chunk.js": "/Facebook-Hackathon/static/js/2.abde8ae2.chunk.js",
+    "static/js/2.abde8ae2.chunk.js.map": "/Facebook-Hackathon/static/js/2.abde8ae2.chunk.js.map",
+    "index.html": "/Facebook-Hackathon/index.html",
+    "precache-manifest.16066b5f7f97749d1ae94c48ad21238b.js": "/Facebook-Hackathon/precache-manifest.16066b5f7f97749d1ae94c48ad21238b.js",
+    "service-worker.js": "/Facebook-Hackathon/service-worker.js",
+    "static/css/main.586bf723.chunk.css.map": "/Facebook-Hackathon/static/css/main.586bf723.chunk.css.map",
+    "static/js/2.abde8ae2.chunk.js.LICENSE.txt": "/Facebook-Hackathon/static/js/2.abde8ae2.chunk.js.LICENSE.txt",
+    "static/media/doctor.png": "/Facebook-Hackathon/static/media/doctor.dafb457d.png",
+    "static/media/logo.png": "/Facebook-Hackathon/static/media/logo.e6151e5f.png",
+    "static/media/body.css": "/Facebook-Hackathon/static/media/vertical-small.2e3548cb.jpg",
+    "static/media/messenger.PNG": "/Facebook-Hackathon/static/media/messenger.b6e74e33.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d036cb09.js",
+    "static/js/2.abde8ae2.chunk.js",
+    "static/css/main.586bf723.chunk.css",
+    "static/js/main.3d9bd2c5.chunk.js"
+  ]
+}
