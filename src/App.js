@@ -10,6 +10,8 @@ import MessengerCustomerChat from 'react-messenger-customer-chat';
 import Body from './components/body/body';
 import Header from './components/header/header';
 
+
+
 function App() {
   return (
     <div className="App">
@@ -18,8 +20,8 @@ function App() {
 
       
           <MessengerCustomerChat
-            pageId="108266287590346"
-            appId="943996966049788"
+            pageId="104558897954522"
+            appId="2636712953277947"
           />
     </div>
   );
@@ -27,3 +29,5 @@ function App() {
 
 
 export default App;
+
+

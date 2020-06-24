@@ -1,6 +1,5 @@
 .header{
-	padding: 10px;
-	border-bottom: 1px solid;
+	/*padding:0 1em;*/
 }
 
 .center{
@@ -14,6 +13,10 @@
 .promoContainer{
 	display: flex;
 	justify-content: space-around;
+	background-color: orange;
+	/*border-bottom: 1px solid;*/
+	height: 2em;
+	padding-top: .2em;
 }
 
 .promo{
