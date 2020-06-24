@@ -15,13 +15,13 @@ class Body extends Component {
 							<li className="min">Get free-delivery of genuine medicines right at your doorstep</li> 
 							<li className="min">We have satisfied customers in more than 50 cities</li>
 						</ div>
-						<div className="max">Order Now</div>
-						<div className="med"> Click on the messenger button on the bottom right or scan qr code / click on the link below</div>
+						<div className="max order">Order Now</div>
+						<div className="min"> Click on the messenger button on the bottom right or scan qr code / click on the link below</div>
 		    			
 					</ div>
 					<div className="right">
 		    			<img src={qr} />
-		    			<a href="http://m.me/Developersforfb-relaxedcoder-104558897954522">http://m.me/Developersforfb-relaxedcoder-104558897954522</a>
+		    			<a className="link" href="http://m.me/Developersforfb-relaxedcoder-104558897954522">http://m.me/Developersforfb-relaxedcoder-104558897954522</a>
 					</ div>
 				</ div>
 			</div>

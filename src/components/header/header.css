@@ -2,6 +2,10 @@
 	/*padding:0 1em;*/
 }
 
+img{
+	height:50%;
+}
+
 .center{
 	width: 100%;
 	text-align: center;
@@ -21,4 +25,17 @@
 
 .promo{
 	/*display: inline;*/
+}
+
+@media (max-width: 800px){
+	img{
+		width: 50%;
+	}
+}
+
+@media (max-width: 425px) {
+	.promo{
+		/*border-right: 1px solid;*/
+		text-align: center;
+	}
 }

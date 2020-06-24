@@ -1,8 +1,11 @@
 .App{
   /*background-color: #E5E5E5;*/
-  width: 98vw;
-  height: 90%;
+ /* width: 100vw;
+  height: 100%;*/
+  /*padding-bottom: 200px;*/
   /*padding: 0 10px;*/
 }
 
-
+* {
+	/*border: 1px solid;*/
+}
